@@ -1,0 +1,466 @@
+fileFormatVersion: 2
+guid: 5fd21f97ca26b4ee78193e91200224a1
+timeCreated: 1490646039
+licenseType: Pro
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000
+  assetHash:
+    serializedVersion: 2
+    Hash: b606794c1a42801d5dc1c630dacfcf0b
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -3.8621686, y: 9.338926, z: -0.29636693}
+      lookAt: {x: 15.084056, y: -0.53031445, z: 11.779207}
+      up: {x: 0.33915043, y: 0.91556066, z: 0.21616107}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cam
+    100002: CamAttach
+    100004: CamMount
+    100006: Group 2
+    100008: Group 88
+    100010: //RootNode
+    100012: Parallel chord truss
+    100014: Parallel chord truss 1
+    100016: Parallel chord truss 2
+    100018: Parallel chord truss 3
+    100020: Security Camera
+    100022: truss_diagonal member
+    100024: truss_diagonal member 1
+    100026: truss_diagonal member 10
+    100028: truss_diagonal member 11
+    100030: truss_diagonal member 12
+    100032: truss_diagonal member 13
+    100034: truss_diagonal member 14
+    100036: truss_diagonal member 15
+    100038: truss_diagonal member 16
+    100040: truss_diagonal member 17
+    100042: truss_diagonal member 18
+    100044: truss_diagonal member 19
+    100046: truss_diagonal member 2
+    100048: truss_diagonal member 20
+    100050: truss_diagonal member 21
+    100052: truss_diagonal member 22
+    100054: truss_diagonal member 23
+    100056: truss_diagonal member 24
+    100058: truss_diagonal member 25
+    100060: truss_diagonal member 26
+    100062: truss_diagonal member 27
+    100064: truss_diagonal member 28
+    100066: truss_diagonal member 29
+    100068: truss_diagonal member 3
+    100070: truss_diagonal member 30
+    100072: truss_diagonal member 31
+    100074: truss_diagonal member 32
+    100076: truss_diagonal member 33
+    100078: truss_diagonal member 34
+    100080: truss_diagonal member 35
+    100082: truss_diagonal member 36
+    100084: truss_diagonal member 37
+    100086: truss_diagonal member 38
+    100088: truss_diagonal member 39
+    100090: truss_diagonal member 4
+    100092: truss_diagonal member 5
+    100094: truss_diagonal member 6
+    100096: truss_diagonal member 7
+    100098: truss_diagonal member 8
+    100100: truss_diagonal member 9
+    100102: truss_vertical member
+    100104: truss_vertical member 1
+    100106: truss_vertical member 10
+    100108: truss_vertical member 11
+    100110: truss_vertical member 12
+    100112: truss_vertical member 13
+    100114: truss_vertical member 14
+    100116: truss_vertical member 15
+    100118: truss_vertical member 16
+    100120: truss_vertical member 17
+    100122: truss_vertical member 18
+    100124: truss_vertical member 19
+    100126: truss_vertical member 2
+    100128: truss_vertical member 20
+    100130: truss_vertical member 21
+    100132: truss_vertical member 22
+    100134: truss_vertical member 23
+    100136: truss_vertical member 24
+    100138: truss_vertical member 25
+    100140: truss_vertical member 26
+    100142: truss_vertical member 27
+    100144: truss_vertical member 28
+    100146: truss_vertical member 29
+    100148: truss_vertical member 3
+    100150: truss_vertical member 30
+    100152: truss_vertical member 31
+    100154: truss_vertical member 32
+    100156: truss_vertical member 33
+    100158: truss_vertical member 34
+    100160: truss_vertical member 35
+    100162: truss_vertical member 36
+    100164: truss_vertical member 37
+    100166: truss_vertical member 38
+    100168: truss_vertical member 39
+    100170: truss_vertical member 4
+    100172: truss_vertical member 5
+    100174: truss_vertical member 6
+    100176: truss_vertical member 7
+    100178: truss_vertical member 8
+    100180: truss_vertical member 9
+    400000: Cam
+    400002: CamAttach
+    400004: CamMount
+    400006: Group 2
+    400008: Group 88
+    400010: //RootNode
+    400012: Parallel chord truss
+    400014: Parallel chord truss 1
+    400016: Parallel chord truss 2
+    400018: Parallel chord truss 3
+    400020: Security Camera
+    400022: truss_diagonal member
+    400024: truss_diagonal member 1
+    400026: truss_diagonal member 10
+    400028: truss_diagonal member 11
+    400030: truss_diagonal member 12
+    400032: truss_diagonal member 13
+    400034: truss_diagonal member 14
+    400036: truss_diagonal member 15
+    400038: truss_diagonal member 16
+    400040: truss_diagonal member 17
+    400042: truss_diagonal member 18
+    400044: truss_diagonal member 19
+    400046: truss_diagonal member 2
+    400048: truss_diagonal member 20
+    400050: truss_diagonal member 21
+    400052: truss_diagonal member 22
+    400054: truss_diagonal member 23
+    400056: truss_diagonal member 24
+    400058: truss_diagonal member 25
+    400060: truss_diagonal member 26
+    400062: truss_diagonal member 27
+    400064: truss_diagonal member 28
+    400066: truss_diagonal member 29
+    400068: truss_diagonal member 3
+    400070: truss_diagonal member 30
+    400072: truss_diagonal member 31
+    400074: truss_diagonal member 32
+    400076: truss_diagonal member 33
+    400078: truss_diagonal member 34
+    400080: truss_diagonal member 35
+    400082: truss_diagonal member 36
+    400084: truss_diagonal member 37
+    400086: truss_diagonal member 38
+    400088: truss_diagonal member 39
+    400090: truss_diagonal member 4
+    400092: truss_diagonal member 5
+    400094: truss_diagonal member 6
+    400096: truss_diagonal member 7
+    400098: truss_diagonal member 8
+    400100: truss_diagonal member 9
+    400102: truss_vertical member
+    400104: truss_vertical member 1
+    400106: truss_vertical member 10
+    400108: truss_vertical member 11
+    400110: truss_vertical member 12
+    400112: truss_vertical member 13
+    400114: truss_vertical member 14
+    400116: truss_vertical member 15
+    400118: truss_vertical member 16
+    400120: truss_vertical member 17
+    400122: truss_vertical member 18
+    400124: truss_vertical member 19
+    400126: truss_vertical member 2
+    400128: truss_vertical member 20
+    400130: truss_vertical member 21
+    400132: truss_vertical member 22
+    400134: truss_vertical member 23
+    400136: truss_vertical member 24
+    400138: truss_vertical member 25
+    400140: truss_vertical member 26
+    400142: truss_vertical member 27
+    400144: truss_vertical member 28
+    400146: truss_vertical member 29
+    400148: truss_vertical member 3
+    400150: truss_vertical member 30
+    400152: truss_vertical member 31
+    400154: truss_vertical member 32
+    400156: truss_vertical member 33
+    400158: truss_vertical member 34
+    400160: truss_vertical member 35
+    400162: truss_vertical member 36
+    400164: truss_vertical member 37
+    400166: truss_vertical member 38
+    400168: truss_vertical member 39
+    400170: truss_vertical member 4
+    400172: truss_vertical member 5
+    400174: truss_vertical member 6
+    400176: truss_vertical member 7
+    400178: truss_vertical member 8
+    400180: truss_vertical member 9
+    2300000: Cam
+    2300002: CamAttach
+    2300004: CamMount
+    2300006: Group 2
+    2300008: Group 88
+    2300010: //RootNode
+    2300012: Parallel chord truss
+    2300014: Parallel chord truss 1
+    2300016: Parallel chord truss 2
+    2300018: Parallel chord truss 3
+    2300020: truss_diagonal member
+    2300022: truss_diagonal member 1
+    2300024: truss_diagonal member 10
+    2300026: truss_diagonal member 11
+    2300028: truss_diagonal member 12
+    2300030: truss_diagonal member 13
+    2300032: truss_diagonal member 14
+    2300034: truss_diagonal member 15
+    2300036: truss_diagonal member 16
+    2300038: truss_diagonal member 17
+    2300040: truss_diagonal member 18
+    2300042: truss_diagonal member 19
+    2300044: truss_diagonal member 2
+    2300046: truss_diagonal member 20
+    2300048: truss_diagonal member 21
+    2300050: truss_diagonal member 22
+    2300052: truss_diagonal member 23
+    2300054: truss_diagonal member 24
+    2300056: truss_diagonal member 25
+    2300058: truss_diagonal member 26
+    2300060: truss_diagonal member 27
+    2300062: truss_diagonal member 28
+    2300064: truss_diagonal member 29
+    2300066: truss_diagonal member 3
+    2300068: truss_diagonal member 30
+    2300070: truss_diagonal member 31
+    2300072: truss_diagonal member 32
+    2300074: truss_diagonal member 33
+    2300076: truss_diagonal member 34
+    2300078: truss_diagonal member 35
+    2300080: truss_diagonal member 36
+    2300082: truss_diagonal member 37
+    2300084: truss_diagonal member 38
+    2300086: truss_diagonal member 39
+    2300088: truss_diagonal member 4
+    2300090: truss_diagonal member 5
+    2300092: truss_diagonal member 6
+    2300094: truss_diagonal member 7
+    2300096: truss_diagonal member 8
+    2300098: truss_diagonal member 9
+    2300100: truss_vertical member
+    2300102: truss_vertical member 1
+    2300104: truss_vertical member 10
+    2300106: truss_vertical member 11
+    2300108: truss_vertical member 12
+    2300110: truss_vertical member 13
+    2300112: truss_vertical member 14
+    2300114: truss_vertical member 15
+    2300116: truss_vertical member 16
+    2300118: truss_vertical member 17
+    2300120: truss_vertical member 18
+    2300122: truss_vertical member 19
+    2300124: truss_vertical member 2
+    2300126: truss_vertical member 20
+    2300128: truss_vertical member 21
+    2300130: truss_vertical member 22
+    2300132: truss_vertical member 23
+    2300134: truss_vertical member 24
+    2300136: truss_vertical member 25
+    2300138: truss_vertical member 26
+    2300140: truss_vertical member 27
+    2300142: truss_vertical member 28
+    2300144: truss_vertical member 29
+    2300146: truss_vertical member 3
+    2300148: truss_vertical member 30
+    2300150: truss_vertical member 31
+    2300152: truss_vertical member 32
+    2300154: truss_vertical member 33
+    2300156: truss_vertical member 34
+    2300158: truss_vertical member 35
+    2300160: truss_vertical member 36
+    2300162: truss_vertical member 37
+    2300164: truss_vertical member 38
+    2300166: truss_vertical member 39
+    2300168: truss_vertical member 4
+    2300170: truss_vertical member 5
+    2300172: truss_vertical member 6
+    2300174: truss_vertical member 7
+    2300176: truss_vertical member 8
+    2300178: truss_vertical member 9
+    3300000: Cam
+    3300002: CamAttach
+    3300004: CamMount
+    3300006: Group 2
+    3300008: Group 88
+    3300010: //RootNode
+    3300012: Parallel chord truss
+    3300014: Parallel chord truss 1
+    3300016: Parallel chord truss 2
+    3300018: Parallel chord truss 3
+    3300020: truss_diagonal member
+    3300022: truss_diagonal member 1
+    3300024: truss_diagonal member 10
+    3300026: truss_diagonal member 11
+    3300028: truss_diagonal member 12
+    3300030: truss_diagonal member 13
+    3300032: truss_diagonal member 14
+    3300034: truss_diagonal member 15
+    3300036: truss_diagonal member 16
+    3300038: truss_diagonal member 17
+    3300040: truss_diagonal member 18
+    3300042: truss_diagonal member 19
+    3300044: truss_diagonal member 2
+    3300046: truss_diagonal member 20
+    3300048: truss_diagonal member 21
+    3300050: truss_diagonal member 22
+    3300052: truss_diagonal member 23
+    3300054: truss_diagonal member 24
+    3300056: truss_diagonal member 25
+    3300058: truss_diagonal member 26
+    3300060: truss_diagonal member 27
+    3300062: truss_diagonal member 28
+    3300064: truss_diagonal member 29
+    3300066: truss_diagonal member 3
+    3300068: truss_diagonal member 30
+    3300070: truss_diagonal member 31
+    3300072: truss_diagonal member 32
+    3300074: truss_diagonal member 33
+    3300076: truss_diagonal member 34
+    3300078: truss_diagonal member 35
+    3300080: truss_diagonal member 36
+    3300082: truss_diagonal member 37
+    3300084: truss_diagonal member 38
+    3300086: truss_diagonal member 39
+    3300088: truss_diagonal member 4
+    3300090: truss_diagonal member 5
+    3300092: truss_diagonal member 6
+    3300094: truss_diagonal member 7
+    3300096: truss_diagonal member 8
+    3300098: truss_diagonal member 9
+    3300100: truss_vertical member
+    3300102: truss_vertical member 1
+    3300104: truss_vertical member 10
+    3300106: truss_vertical member 11
+    3300108: truss_vertical member 12
+    3300110: truss_vertical member 13
+    3300112: truss_vertical member 14
+    3300114: truss_vertical member 15
+    3300116: truss_vertical member 16
+    3300118: truss_vertical member 17
+    3300120: truss_vertical member 18
+    3300122: truss_vertical member 19
+    3300124: truss_vertical member 2
+    3300126: truss_vertical member 20
+    3300128: truss_vertical member 21
+    3300130: truss_vertical member 22
+    3300132: truss_vertical member 23
+    3300134: truss_vertical member 24
+    3300136: truss_vertical member 25
+    3300138: truss_vertical member 26
+    3300140: truss_vertical member 27
+    3300142: truss_vertical member 28
+    3300144: truss_vertical member 29
+    3300146: truss_vertical member 3
+    3300148: truss_vertical member 30
+    3300150: truss_vertical member 31
+    3300152: truss_vertical member 32
+    3300154: truss_vertical member 33
+    3300156: truss_vertical member 34
+    3300158: truss_vertical member 35
+    3300160: truss_vertical member 36
+    3300162: truss_vertical member 37
+    3300164: truss_vertical member 38
+    3300166: truss_vertical member 39
+    3300168: truss_vertical member 4
+    3300170: truss_vertical member 5
+    3300172: truss_vertical member 6
+    3300174: truss_vertical member 7
+    3300176: truss_vertical member 8
+    3300178: truss_vertical member 9
+    4300000: Mesh highwaysign_model
+    4300002: Mesh Group 2
+    4300004: Mesh Parallel chord truss
+    4300006: Mesh truss_vertical member
+    4300008: Mesh truss_diagonal member
+    4300010: Mesh Group 88
+    4300012: Mesh Cam
+    4300014: Mesh CamAttach
+    4300016: Mesh CamMount
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

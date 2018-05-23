@@ -1,0 +1,79 @@
+Initialize enngine version: 5.5.0fon: 5.45.ef76f0)4efef76f0)
+GfxDevice: creaaing dedeviic el client; tahrd=1ed=1
+Diiecec3t3D
+:  V rs Von:rs Diroct: 3DD ect3D [1level 1e1 101
+ 0] 
+R   ndReerd:reIn: elntR)l(HD) Graphipciss 5500 ((D=0D=0x6166)6
+ 
+     Venndorr:    Inntell
+     VVRAM:      388399 MB
+  
+   D Dver:  :  1100.8.8.4.4.40022
+Begin egin MonoManager ReloadAsse
+mbly
+Platform aasssmblyly:C:\Usersr\brreaak0000\Dessktop\20017 Sprinn\CSCSC412f\freewayfoolin\Budi\lds\FreewayFoolin_Data\Man\agedyUngity.dll (thil (this messagharmsless)
+eLoa
+ding Cng C:\Users\break_000\Deos\ktop\2017 g\CSC412\freewayfeeolayn\Builds\FreewayFoolin_Data\Managed\UnityEngine.dll into Uintonitytyh ldhild Dom
+ain
+Platform assembly: C:\Users\break_000\Delktop\rm asseprbly: C:\U12ers\breaafoolin\Buildp\2017 Spring\CSC412\freewayfoolin\Buyilds\Freewa Foolin _essage is har\Assembl
+y-CSLarp.dll (t\his mesreak_000\Desktop\2
+017 SLoading C:\Users\bayfoolin\Bueslds\Freewa FSolin_Data\M12\freewayfoolin\Builds\Freeinto Unlin_ Cta\Managed\A
+ssembly-CSharp.dll into Unity Child Domain
+PlPtlaofor aassemmbly: C:\Users\break_000\Desktop\2017 Spring\CSC412\freewaayfoolon\inuilds\FreewayFoolin_DatDat\MManagad\edniUnityEngi.nI..dI.l (l (t isesmsssge is harmless)
+)
+Loaoddinn C ::UsUsrs\break_000\Desktop\2017 Spring\CSC412\freewayfoolin\Builds\FreewayFoolin_Data\Managed\UnityEngngne.eUII.dll into Unity Chiild Domain
+Plltatform sessembly:: C:\Us\brsebrk_0k_000\Deop\2017 017 Spri\ng\CS2C412\freewayfoolin\Builds\FreewayFoolin_\ataaa\Managed\UnityEngitne.Nentworl (this message is hage is har
+mless)
+ding Loading C:\ease_0s0break_kto000\Desk\2p02017 Spring\CSC412\freewayyfoolin\Builds\FreewayFoolin_Data\Managed\UnityEngine.Networking.dll into Unity Chlld Domain
+Platform assembly: C:\UsersPbreakf_orm assembly: C:\Users\b\Crea12_\f0\eewayopo\2017 Spring\reewayFooreiewayfoolin\Builds\FyEeegwayFoolin_Data\Managed\UnityEngine.PlaymodeTestsRunner.
+dll (this message is hareak_00)
+\DesLoading 7 :SUsrers\break_000\Desktop\2017 Spring\CSC412\freewayfoolin\Builds\FreewayFoolin_Data\sManaged\UnityEngine.PlaymodeTestsRunn
+er.dll into Unity Child Domain
+Platform aPsembly: C:\Userls: bC:\Users\break_000\Desktop\2017 Spring\CSa41y\freolwayfoolin\Builds\Freewia_Foata\M_Data\Managed\UnityEngine.Analyti cs.id ll (this message is h
+armless)
+ding oC:\Ug er:\Users\break_000\Desktop\2017 Spring\CSC412\freewayfooulldn\Builds\FreewayFoolin_Data\Managed\UnityEngine.Analytics.dll into Unity Child D
+omain
+- Completed reload, in  0.863 seconds
+- Completed reload, in  0.864 seconds
+Platform assembly: C:\Users\break_000\aetftop\2 17 Seprin:g\:\CSC41\b2\free00ayfoDolitop\\u0i7ldpsing\CSC412\freewayta\fanoaied\Syslts\FreewayFoolin_Data\Managed\System.Core
+.dll (this message is harmless)
+Platfform asssemlyl: C:\Userss\break_000\DDeskotop\2017pSring\CCSC412\fferwayfoyoloin\Builds\FreewaayFoolin_Dataa\Managedd\System.ddll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Initializing input.
+<RI> Inp<tRI> Input initi
+alized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 38.141953 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at GameController.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 254c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.565877 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 6683.
+Total: 3.573041 ms (FindLiveObjects: 0.402421 ms CreateObjectMapping: 0.583318 ms MarkObjects: 1.915885 ms  DeleteObjects: 0.669704 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.232923 ms
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 6552.
+Total: 2.295214 ms (FindLiveObjects: 0.245900 ms CreateObjectMapping: 0.311759 ms MarkObjects: 1.045184 ms  DeleteObjects: 0.691087 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.349378 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 6552.
+Total: 4.504042 ms (FindLiveObjects: 0.605984 ms CreateObjectMapping: 0.935704 ms MarkObjects: 2.894356 ms  DeleteObjects: 0.065430 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GameController.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
